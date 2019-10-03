@@ -19,6 +19,7 @@ import butterknife.ButterKnife;
 
 public class MainActivity extends AppCompatActivity  implements View.OnClickListener {
 
+
     public static  List<String> lista = new ArrayList<>();
     public  static  List<Contactos> listacontactos = new ArrayList<>();
 

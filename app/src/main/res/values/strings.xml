@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">guia4</string>
+    <string name="Validarnomnre">Escriba el nombre</string>
+    <string name="ValidarOrganizacion">Escriba la organizacion</string>
+    <string name="ValidarTelefono">Escriba numero de telefono</string>
+    <string name="Tamanio">La longitud es de 8 caracteres</string>
+
+</resources>
